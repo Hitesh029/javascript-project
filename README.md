@@ -1,1 +1,1 @@
-# javascript-project
+python project
